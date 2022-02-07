@@ -28,3 +28,14 @@
 - [软件使用许可](https://github.com/netLingSky/Qing-Browser/LICENSE)
 
 ## 项目成员
+- <img class="header" src="https://chiziingiin.github.io/image/header/lk.jpg"/>Net凌空（创建者）
+- <img class="header" src="https://chiziingiin.github.io/image/header/The%20dreams.jpg"/>The dreams 及 <img class="header" src="https://chiziingiin.github.io/image/header/chiziingiin.jpg"/>赤子英金信息技术团队
+
+<style>
+  .header{
+    width:28px;
+    height:28px;
+    border-radius:14px;
+    margin-right:5px;
+  }
+</style>
